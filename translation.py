@@ -8,7 +8,7 @@ This is a Telegram URL Upload Bot!
 
 /help for more details..
 
-Support Group : @TroJanzSupport
+Support Group : @Netfix_TV_Series_Complete
 """
 
     HELP_USER = """Hai I'am a URL Uploader bot..
