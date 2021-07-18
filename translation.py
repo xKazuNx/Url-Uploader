@@ -33,7 +33,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/prgofficial/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Request Tv Series From Here.. </b>  \n\n<a href='https://t.me/Netfilx_TV_Series_Requset'>Click here, Check Our Group!!</a>"
     
     DOWNLOAD_START = "Trying to download your file..."
     
