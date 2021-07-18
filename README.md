@@ -1,6 +1,6 @@
 ## Made from [Using Kasun Lenadora's Brain](https://t.me/Ka_s_un)
 
-ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
+ALL CREDITS GOES TO KASUN PRIYADARSHANA LENADORA :)
 
 #### If you find any bugs, report to [@Ka_s_un](https://t.me/Ka_s_un)
 
@@ -28,7 +28,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Run in your VPS
 ```sh
-git clone https://github.com/prgofficial/URLuploader-With-Hotstar
+git clone https://git.heroku.com/url-uploader-x.git
 cd URLuploader-With-Hotstar
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
