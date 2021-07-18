@@ -1,8 +1,8 @@
-## Made from [AnyDLBot](https://telegram.dog/AnyDLBot)
+## Made from [Using Kasun Lenadora's Brain](https://t.me/Ka_s_un)
 
 ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
-#### If you find any bugs, report to [prgofficial](https://telegram.dog/prgofficial)
+#### If you find any bugs, report to [@Ka_s_un](https://t.me/Ka_s_un)
 
 ### Features
 
@@ -20,7 +20,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### The Easiest Way
 
-**Upgrade** your subscription for [@AnyDLBot](https://telegram.dog/AnyDLBot) without having to run anything on your own
+**Upgrade** your subscription for [@Ka_s_un](https://t.me/Ka_s_un) without having to run anything on your own
 
 #### Deploy to Heroku
 
